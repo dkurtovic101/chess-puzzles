@@ -11,8 +11,10 @@ white moves and mate's in 2
 
 ![Image](https://thechessworld.com/graphics/study/study3.jpg)
 
-white mate's in 2
+white moves and mate's in 2
 
+
+![Image](https://wsldpcom.s3-us-west-2.amazonaws.com/chesspo/30-m2-white.png)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dkurtovic101/chess-puzzles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
