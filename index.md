@@ -9,12 +9,16 @@ here you can solve some interesting chess puzzles. You are welcome to sen the an
 white moves and mate's in 2
 
 
-![Image](https://thechessworld.com/graphics/study/study3.jpg)
+![Image](https://www.flickr.com/photos/187774152@N03/49737973547/in/dateposted-public/)
 
 white moves and mate's in 2
 
 
-![Image](https://wsldpcom.s3-us-west-2.amazonaws.com/chesspo/30-m2-white.png)
+![Image](https://www.flickr.com/photos/187774152@N03/49737101173/in/dateposted-public/)
+
+white moves and mate's in 2
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dkurtovic101/chess-puzzles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
