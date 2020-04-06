@@ -14,7 +14,7 @@ white moves and mate's in 2
 white moves and mate's in 2
 
 
-![Image](https://www.flickr.com/photos/187774152@N03/49737101173/in/dateposted-public/)
+![Image](https://www.flickr.com/photos/187774152@N03/49742551637/in/dateposted/)
 
 white moves and mate's in 2
 
