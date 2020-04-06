@@ -9,7 +9,7 @@ here you can solve some interesting chess puzzles. You are welcome to sen the an
 white moves and mate's in 2
 
 
-![Image](https://live.staticflickr.com/65535/49737101173_8560b272d5_m.jpg)
+!(https://live.staticflickr.com/65535/49737101173_8560b272d5_m.jpg)
 
 white moves and mate's in 2
 
