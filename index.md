@@ -9,12 +9,12 @@ here you can solve some interesting chess puzzles. You are welcome to sen the an
 white moves and mate's in 2
 
 
-!(https://live.staticflickr.com/65535/49737101173_8560b272d5_m.jpg)
+![Image](https://live.staticflickr.com/65535/49737101173_8560b272d5_m.jpg)
 
 white moves and mate's in 2
 
 
-![Image](https://www.flickr.com/photos/187774152@N03/49742551637/in/dateposted/)
+![Image](https://live.staticflickr.com/65535/49742551637_2bfeed2a9a_m.jpg)
 
 white moves and mate's in 2
 
