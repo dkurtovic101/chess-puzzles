@@ -1,6 +1,6 @@
 # Chess puzzles
 
-here you can solve some interesting chess puzzles. You are welcome to sen the answer's on my email(it's on the bottom of the page)
+here you can solve some interesting chess puzzles. You are welcome to send the answer's on my email(it's on the bottom of the page)
 
 ## Mate in 2
 
@@ -15,6 +15,11 @@ white moves and mate's in 2
 
 
 ![Image](https://live.staticflickr.com/65535/49742551637_2bfeed2a9a_m.jpg)
+
+white moves and mate's in 2
+
+
+![Image](https://live.staticflickr.com/65535/49741945878_b21ca4ef45_o.jpg)
 
 white moves and mate's in 2
 
